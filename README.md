@@ -1,5 +1,5 @@
 ## run_analysis.R 
-R script that uses "Human Activity Recognition Using Smartphones" dataset to creates a tidy data 
+R script that uses "Human Activity Recognition Using Smartphones" dataset to create a tidy data 
 
 ##### Note 
 Output file is tidy.txt based on these steps:
